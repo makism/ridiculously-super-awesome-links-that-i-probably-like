@@ -4,6 +4,7 @@
 * https://github.com/piermorel/gramm
 
 > #### MST
+* [NetworkX MST](https://networkx.github.io/documentation/networkx-1.9/_modules/networkx/algorithms/mst.html)
 * [MST Clustering](https://github.com/jakevdp/mst_clustering)
 * [MST Clustering (ipython notebook)](http://nbviewer.jupyter.org/github/jakevdp/mst_clustering/blob/master/MSTClustering.ipynb)
 
