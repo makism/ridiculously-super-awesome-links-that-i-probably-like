@@ -9,6 +9,7 @@
 * http://mediterraneanschoolcomplex.net/
 
 ### Cloud Computing
+* https://cloudplatformonline.com/NEXT2016-Amsterdam.html
 * https://aws.amazon.com/summits/netherlands/
 
 ### Deep Neural Networks
