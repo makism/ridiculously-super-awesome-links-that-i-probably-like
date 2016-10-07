@@ -3,6 +3,10 @@
 * http://pymc-devs.github.io/pymc3/notebooks/getting_started.html
 * https://github.com/piermorel/gramm
 
+> #### MST
+* [MST Clustering](https://github.com/jakevdp/mst_clustering)
+* [MST Clustering (ipython notebook)](http://nbviewer.jupyter.org/github/jakevdp/mst_clustering/blob/master/MSTClustering.ipynb)
+
 ### Workshops
 * http://www.math.uu.nl/stochsem/WorkshopRGs2017/
 * http://www-sop.inria.fr/members/Giovanni.Neglia/complexnetworks16/
